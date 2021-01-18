@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Biblioteca
+comment1.params=
+comment1.target=Biblioteca()
+comment2.params=l
+comment2.target=void\ addLivro(Livro)
+comment3.params=
+comment3.target=java.util.ArrayList\ getLivro()
+comment4.params=nomeBiblioteca
+comment4.target=void\ setNomeBiblioteca(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getNomeBiblioteca()
+comment6.params=
+comment6.target=void\ contaObrasDoadas()
+numComments=7

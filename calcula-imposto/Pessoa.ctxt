@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Pessoa
+comment1.params=
+comment1.target=Pessoa()
+comment2.params=nome
+comment2.target=void\ setNome(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getNome()
+comment4.params=tipoPessoa
+comment4.target=void\ setTipoPessoa(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getTipoPessoa()
+comment6.params=rendaBruta
+comment6.target=void\ setRendaBruta(double)
+comment7.params=
+comment7.target=double\ getRendaBruta()
+comment8.params=
+comment8.target=void\ calculaImposto()
+numComments=9

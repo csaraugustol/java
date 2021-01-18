@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=TimeFutebol
+comment1.params=Nome\ Cidade\ Estado
+comment1.target=TimeFutebol(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=j
+comment2.target=void\ addJgd(Jogador)
+comment3.params=
+comment3.target=java.util.ArrayList\ getJogador()
+comment4.params=Nome
+comment4.target=void\ setNome(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getNome()
+comment6.params=Cidade
+comment6.target=void\ setCidade(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getCidade()
+comment8.params=Estado
+comment8.target=void\ setEstado(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ getEstado()
+numComments=10

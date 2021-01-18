@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Atleta
+comment1.params=
+comment1.target=Atleta()
+comment2.params=Nome
+comment2.target=void\ setNome(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getNome()
+comment4.params=Peso
+comment4.target=void\ setPeso(double)
+comment5.params=
+comment5.target=double\ getPeso()
+numComments=6

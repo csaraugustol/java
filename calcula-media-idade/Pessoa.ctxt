@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Pessoa
+comment1.params=idadeH1
+comment1.target=void\ setIdadeH1(int)
+comment2.params=idadeH2
+comment2.target=int\ getIdadeH1(int)
+comment3.params=idadeH2
+comment3.target=void\ setIdadeH2(int)
+comment4.params=idadeH2
+comment4.target=int\ getIdadeH2(int)
+comment5.params=idadeM1
+comment5.target=void\ setIdadeM1(int)
+comment6.params=idadeM2
+comment6.target=int\ getIdadeM1(int)
+comment7.params=idadeM2
+comment7.target=void\ setIdadeM2(int)
+comment8.params=idadeM2
+comment8.target=int\ getIdadeM2(int)
+comment9.params=
+comment9.target=void\ CalculaIdade()
+numComments=10

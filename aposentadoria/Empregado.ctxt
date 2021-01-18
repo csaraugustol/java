@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Empregado
+comment1.params=codEmp
+comment1.target=void\ setCodEmp(int)
+comment2.params=
+comment2.target=int\ getCodEmp()
+comment3.params=anoContra
+comment3.target=void\ setAnoContra(int)
+comment4.params=
+comment4.target=int\ getAnoContra()
+comment5.params=anoNasc
+comment5.target=void\ setAnoNasc(int)
+comment6.params=
+comment6.target=int\ getAnoNasc()
+comment7.params=
+comment7.target=void\ VerificaAposentadoria()
+numComments=8

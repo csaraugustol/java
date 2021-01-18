@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Idade
+comment1.params=id
+comment1.target=void\ setId(int)
+comment2.params=
+comment2.target=int\ getId()
+comment3.params=mes
+comment3.target=void\ setMes(int)
+comment4.params=
+comment4.target=int\ getMes()
+comment5.params=dia
+comment5.target=void\ setDia(int)
+comment6.params=
+comment6.target=int\ getDia()
+comment7.params=
+comment7.target=int\ calculaIdadeEmDias()
+numComments=8

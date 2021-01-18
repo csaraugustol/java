@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Pescador
+comment1.params=
+comment1.target=Pescador()
+comment2.params=px
+comment2.target=void\ addPeixe(Peixe)
+comment3.params=
+comment3.target=java.util.ArrayList\ getPeixe()
+comment4.params=vlMulta
+comment4.target=void\ setVlMulta(double)
+comment5.params=
+comment5.target=double\ getVlMulta()
+comment6.params=
+comment6.target=double\ pesoExcedido()
+comment7.params=
+comment7.target=double\ calculaMulta()
+numComments=8

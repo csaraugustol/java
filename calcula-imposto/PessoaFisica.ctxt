@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PessoaFisica
+comment1.params=
+comment1.target=PessoaFisica()
+comment2.params=idade
+comment2.target=void\ setIdade(int)
+comment3.params=
+comment3.target=int\ getIdade()
+comment4.params=cpf
+comment4.target=void\ setCpf(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getCpf()
+numComments=6

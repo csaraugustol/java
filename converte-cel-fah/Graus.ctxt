@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Graus
+comment1.params=cel
+comment1.target=void\ setCel(double)
+comment2.params=
+comment2.target=double\ getCel()
+comment3.params=
+comment3.target=double\ calculaTemp()
+numComments=4

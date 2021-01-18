@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Funcionario
+comment1.params=horaTrab
+comment1.target=void\ setHoraTrab(double)
+comment10.params=
+comment10.target=double\ salarioLiquido()
+comment2.params=
+comment2.target=double\ getHoraTrab()
+comment3.params=salarioHora
+comment3.target=void\ setSalarioHora(double)
+comment4.params=
+comment4.target=double\ getSalarioHora()
+comment5.params=numDependentes
+comment5.target=void\ setNumDependentes(int)
+comment6.params=
+comment6.target=int\ getNumDependentes()
+comment7.params=
+comment7.target=double\ setSalarioBruto()
+comment8.params=
+comment8.target=double\ Inss()
+comment8.text=public\ double\ getSalarioBruto(){\r\n\ \ \ \ return\ salarioBruto;\r\n}
+comment9.params=
+comment9.target=double\ IR()
+comment9.text=\ public\ double\ getInss(){\r\n\ \ \ \ return\ inss;\r\n}
+numComments=11

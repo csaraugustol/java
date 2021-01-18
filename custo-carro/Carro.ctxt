@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Carro
+comment1.params=
+comment1.target=Carro()
+comment2.params=custoFabrica
+comment2.target=void\ setCustoFabrica(double)
+comment3.params=
+comment3.target=double\ getCustoFabrica()
+comment4.params=porcentImpos
+comment4.target=void\ setPorcentImpos(double)
+comment5.params=
+comment5.target=double\ getPorcentImpos()
+comment6.params=porcentDistri
+comment6.target=void\ setPorcentDistri(double)
+comment7.params=
+comment7.target=double\ getPorcentDistri()
+comment8.params=
+comment8.target=double\ calculaValorConsu()
+numComments=9

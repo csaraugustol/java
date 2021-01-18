@@ -1,0 +1,30 @@
+#BlueJ class context
+comment0.target=Empresa
+comment1.params=
+comment1.target=Empresa()
+comment10.params=
+comment10.target=java.lang.String\ imprimeMaior()
+comment11.params=
+comment11.target=java.lang.String\ imprimeMenor()
+comment12.params=
+comment12.target=int\ posicaoMaiorImposto()
+comment12.text=public\ double\ retornaImpostoPessoaFisica(){\r\n\ \ \ \ double\ impostoPf\ \=\ 0;\r\n\ \ \ \ for(int\ \ i\ \=0;\ i\ <\ func.size();\ i++){\r\n\ \ \ \ if(func.get(i).getTipoPessoa().equalsIgnoreCase("pf")){\r\n\ \ \ \ if(func.get(i).getRendaBruta()\ <\=\ 1.400)\r\n\ \ \ \ {\r\n\ \ \ \ return\ impostoPf\ \=\ 0;\r\n\ \ \ \ }\r\n\ \ \ \ else\ if(func.get(i).getRendaBruta()\ >\ 1.400\ &&\ func.get(i).getRendaBruta()\ <\=\ 2.100)\r\n\ \ \ \ {\r\n\ \ \ \ return\ impostoPf\ \=\ func.get(i).getRendaBruta()\ *\ 0.10;\r\n\ \ \ \ }\r\n\ \ \ \ else\ if(func.get(i).getRendaBruta()\ >\ 2.100\ &&\ func.get(i).getRendaBruta()\ <\=\ 2.800)\r\n\ \ \ \ {\r\n\ \ \ \ return\ impostoPf\ \=\ func.get(i).getRendaBruta()\ *\ 0.15;\r\n\ \ \ \ }\r\n\ \ \ \ else\ if(func.get(i).getRendaBruta()\ >\ 2.800\ &&\ func.get(i).getRendaBruta()\ <\=\ 3.600)\r\n\ \ \ \ {\r\n\ \ \ \ return\ impostoPf\ \=\ func.get(i).getRendaBruta()\ *\ 0.25;\r\n\ \ \ \ }\r\n\ \ \ \ else\r\n\ \ \ \ {\r\n\ \ \ \ return\ impostoPf\ \=\ func.get(i).getRendaBruta()\ *\ 0.30;\r\n\ \ \ \ }\r\n\ \ \ \ }\r\n\ \ \ \ }\ \r\n\r\n\ \ \ \ return\ impostoPf;\r\n\ \ \ \ }\r\n\r\n\ \ \ \ public\ String\ pagouMaiorImposto(){\r\n\ \ \ \ String\ mImposto\ \=\ "";\r\n\ \ \ \ double\ imposto\ \=\ 0;\r\n\ \ \ \ int\ pos\ \=\ 0;\r\n\r\n\ \ \ \ for(int\ i\ \=\ 0;\ i\ <\ func.size();\ i++){\r\n\ \ \ \ if(func.get(i).getRendaBruta()\ >\ imposto\ ){\r\n\ \ \ \ imposto\ \=\ func.get(i).getRendaBruta();\r\n\ \ \ \ pos\ \=\ i;\r\n\ \ \ \ }\r\n\r\n\ \ \ \ }\r\n\ \ \ \ return\ "Funcion\u00E1rio\ que\ pagou\ mais\ imposto,\ "\ +\ func.get(pos).getNome()\ +\ "\ de\ "\ +\ imposto\ +\ ;\r\n\ \ \ \ }\r\n
+comment13.params=
+comment13.target=int\ posicaoMenorImposto()
+comment2.params=nome
+comment2.target=void\ setNome(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getNome()
+comment4.params=rendaEmpresa
+comment4.target=void\ setRendaEmpresa(double)
+comment5.params=
+comment5.target=double\ getRendaEmpresa()
+comment6.params=pessoa
+comment6.target=void\ addFunc(Pessoa)
+comment7.params=
+comment7.target=double\ retornaImpostoPessoaJuridica()
+comment8.params=
+comment8.target=double\ retornaMaiorImposto()
+comment9.params=
+comment9.target=double\ retornaMenorImposto()
+numComments=14
