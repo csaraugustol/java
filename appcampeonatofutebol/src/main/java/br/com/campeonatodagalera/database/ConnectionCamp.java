@@ -5,23 +5,6 @@
  */
 package br.com.campeonatodagalera.database;
 
-import br.com.campeonatodagalera.campeonato.Campeonato;
-import br.com.campeonatodagalera.comissaoarbitragem.Arbitro;
-import br.com.campeonatodagalera.dao.ArbitroDao;
-import br.com.campeonatodagalera.dao.CampeonatoDao;
-import br.com.campeonatodagalera.dao.JogadorDao;
-import br.com.campeonatodagalera.dao.PartidaDao;
-import br.com.campeonatodagalera.dao.TecnicoDao;
-import br.com.campeonatodagalera.dao.TimeDao;
-import br.com.campeonatodagalera.dao.UsuarioDao;
-import br.com.campeonatodagalera.enumtipos.EEstadio;
-import br.com.campeonatodagalera.enumtipos.EPosicao;
-import br.com.campeonatodagalera.enumtipos.ESexo;
-import br.com.campeonatodagalera.login.Usuario;
-import br.com.campeonatodagalera.partida.Partida;
-import br.com.campeonatodagalera.time.Jogador;
-import br.com.campeonatodagalera.time.Tecnico;
-import br.com.campeonatodagalera.time.Time;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
